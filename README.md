@@ -1,3 +1,35 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ev0Dj_J5)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21923678)
-# proyecto-formatos-01
+# Proyecto SI885 - Telelinker
+
+Proyecto de desarrollo del sistema Telelinker para la extracción y análisis de enlaces compartidos en grupos de Telegram.
+
+## 📂 Estructura del Proyecto
+
+### `/app`
+Contiene el código fuente completo de la aplicación Telelinker:
+- **CLI**: Interfaz de línea de comandos con comandos para login, extracción, generación de reportes
+- **Scrapers**: Módulos para extraer datos de diferentes plataformas (Instagram, LinkedIn, YouTube, TikTok, Medium, Dev.to)
+- **Dashboards**: Visualización interactiva de datos con Plotly Dash
+- **Services**: Integración con Telegram API
+- **Utils**: Utilidades para normalización de datos y configuración de Selenium
+
+Ver el [README de la aplicación](app/README.md) para más detalles sobre instalación y uso.
+
+### `/documentacion`
+Documentación técnica del proyecto:
+- **FD01-Informe-Factibilidad.md**: Análisis de factibilidad del proyecto
+- **FD02-Informe-Vision.md**: Documento de visión y alcance
+- **FD03-EPIS-Informe Especificación Requerimientos.md**: Especificación de requerimientos
+- **FD04-EPIS-Informe Arquitectura de Software.md**: Diseño arquitectónico del sistema
+- **FD05-EPIS-Informe ProyectoFinal.docx**: Informe final del proyecto
+
+### `video.txt`
+Enlace al video de demostración del proyecto:
+https://drive.google.com/file/d/1rON2vTHu_zNsbcL3ooIkBqPtSn81w_lq/view
+
+## 🚀 Inicio Rápido
+
+Para instalar y usar la aplicación, consulta la [documentación en `/app`](app/README.md).
+
+## 📄 Licencia
+
+MIT License - Ver [LICENSE](app/LICENSE) para más detalles.
