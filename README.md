@@ -2,6 +2,12 @@
 
 Proyecto de desarrollo del sistema Telelinker para la extracción y análisis de enlaces compartidos en grupos de Telegram.
 
+# Estudiantes
+
+Cesar Nikolas Camac Melendez
+Jefferson Rosas Chambilla
+
+
 ## 📂 Estructura del Proyecto
 
 ### `/app`
