@@ -4,8 +4,8 @@ Proyecto de desarrollo del sistema Telelinker para la extracción y análisis de
 
 # Estudiantes
 
-Cesar Nikolas Camac Melendez
-Jefferson Rosas Chambilla
+- Cesar Nikolas Camac Melendez
+- Jefferson Rosas Chambilla
 
 # Link del repositorio completo en drive
 
